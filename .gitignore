@@ -1,0 +1,10 @@
+mapmyfitness-php-sdk
+mapmyfitness-php-sdk/
+mapmyfitness-php-sdk/*
+
+.DS_Store
+
+# PHP_storm
+.idea
+.idea/
+.idea/*
