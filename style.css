@@ -1,0 +1,11 @@
+.activity-image {
+    width: 100px;
+}
+.activity-image img {
+    width: 100%;
+}
+.recent-workout {
+    width: 33%;
+    box-sizing: border-box;
+    display: inline-block;
+}
