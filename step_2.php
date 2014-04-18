@@ -16,8 +16,8 @@
     include_once("mapmyfitness-php-sdk/MMF_OAuth.php");
 
     // For Testing
-//    define("ACCESS_TOKEN", "F55z55eCk6FXNrUaUDInhiDBCTeyuS");
-//    define("ACCESS_TOKEN_SECRET", "JnhgiYDRY7Wle5rLYPKjaW7O7RP66K");
+//    define("ACCESS_TOKEN", "Your accessToken here");
+//    define("ACCESS_TOKEN_SECRET", "Your accessTokenSecret here");
 //    $accessToken = ACCESS_TOKEN;
 //    $accessTokenSecret = ACCESS_TOKEN_SECRET;
 
@@ -115,7 +115,7 @@
 
 <div style="background-color: whitesmoke; padding: 50px 0;">
     <div class="container">
-     Other End point would display here
+     Other End points would display data here
     </div>
 </div>
 
